@@ -9,3 +9,4 @@ A unique python menu built using the `keyboard` and `pygetwindow` libraries, ful
 - Checks for active window to unsuppress keyboard inputs
 
 ## Example
+![Menu GIF](https://raw.githubusercontent.com/reckedpr/python-menu/refs/heads/main/Images/python-menu.gif)
