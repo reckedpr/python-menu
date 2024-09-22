@@ -1,4 +1,7 @@
 # Python Menu
+![Static Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub License](https://img.shields.io/github/license/reckedpr/python-menu?style=for-the-badge)
+
 A unique python menu built using the `keyboard` and `pygetwindow` libraries, fully modular and customizable. Has active window checking so keyboard inputs are *not* hijacked. This project was made as a quick proof of concept; I will not be fixing errors. Windows Only.
 
 ## Features
