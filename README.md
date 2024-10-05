@@ -4,7 +4,7 @@
 
 A unique python menu built using the `keyboard` and `pygetwindow` libraries, fully modular and customizable. Has active window checking so keyboard inputs are *not* hijacked. This project was made as a quick proof of concept; I will not be fixing errors. Windows Only.
 
-Feel free to DM me on discord: `@reckedpr` for any questions
+Feel free to DM me on discord: `@enviedpr` for any questions
 
 ## Features
 - Navigation using `Up` & `Down` Arrow Keys
